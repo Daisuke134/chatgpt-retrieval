@@ -1,6 +1,6 @@
 import os
 import sys
-
+#explanation here
 import openai
 from langchain.chains import ConversationalRetrievalChain, RetrievalQA
 from langchain.chat_models import ChatOpenAI
